@@ -1,13 +1,13 @@
-#Project Code book
+# Project Code book
 
 The variables appearing in the "tidy_data.txt" file could be divided into:
 
-##Key variables
+## Key variables
 
 - subject: unique ID of the test subject
 - activity: exercise type realized by subject (e.g. "WALKING", "WALKING_UPSTAIRS"...)
 
-##Measurements
+## Measurements
 
 This type of variables contains the mean of each measurement (whether is average or standard deviation)
 
