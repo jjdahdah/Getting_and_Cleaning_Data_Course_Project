@@ -1,6 +1,6 @@
-#Getting and Cleaning Data - Course Project
+# Getting and Cleaning Data - Course Project
 
-##This repository contains a script called "run_analysis.r", which does the following:
+### This repository contains a script called "run_analysis.r", which does the following:
 
 1. Download and unzip the data for the final project of the "Getting and Cleaning Data" course
 2. Load all the files regarding test and train datasets, and rename the variables
